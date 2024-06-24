@@ -1,1 +1,1 @@
-dgraph/dgraph:lates
+dgraph/dgraph:latest
